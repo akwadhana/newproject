@@ -1,0 +1,27 @@
+#root {
+
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.newswebsite{
+  /* justify-content: center;
+  display: flex;
+   */
+  }
+  
+  .newselement {
+      padding:25px;
+      border: 2px solid ;
+      width: 400px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+  }
+  
+  .newsimage{
+      width:300px;
+    
+  }
+  
